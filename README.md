@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and Deploy https://delicate-empanada-ca0648.netlify.app/.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) This is a small project created in React with JavaScript, in order to better understand the use of the useState Hook, it allows you to create a list of tasks and modify and edit them yourself  and Deploy https://delicate-empanada-ca0648.netlify.app/.
 
 ## Available Scripts
 
